@@ -1,0 +1,127 @@
+Recommended bundled packages (development + 1 year hosting + basic maintenance)
+
+All prices are per year (development + hosting + light maintenance/support for 12 months). You can offer a monthly payment option or a 10–15% discount for annual prepayment.
+
+1) Starter — MWK 180,000 / year (≈ USD 104)
+
+What you deliver
+
+Simple 4–6 page site (Home, About, Services, Contact, Privacy) with responsive template.
+
+Basic CMS (WordPress) or static site generator so client can edit text/images.
+
+Basic SEO setup (meta tags, sitemap), SSL, email contact form.
+
+Shared hosting (suitable for < 5k visits/month) + monthly backups + 1 hr/month support.
+
+Why price here
+
+Matches local entry ranges while including first-year hosting (local hosts list K10k/month). Good for SMEs and solopreneurs.
+malawiwebsite.com
++1
+
+2) Business — MWK 450,000 / year (≈ USD 259)
+
+What you deliver
+
+Custom template, up to 12 pages, CMS admin training, contact forms, Google Analytics, performance optimization.
+
+Email setup (up to 5 mailboxes), monthly backups, uptime monitoring, 3 hrs/month support.
+
+Hosting on a higher-tier shared or small VPS (faster, more storage).
+
+Why price here
+
+More customization + higher hosting SLA and support hours. Targets local SMEs and professional services. Local mid-range dev packages commonly sit in this ballpark.
+GEXAUZ
++1
+
+3) Professional / Agency — MWK 900,000 / year (≈ USD 519)
+
+What you deliver
+
+Bespoke design, up to 25 pages, integrations (newsletter, CRM lead capture), basic automation, advanced SEO baseline, monthly content updates (2 per month).
+
+Managed VPS or cloud hosting, daily backups, staging environment, 6 hrs/month support, 99.9% monitoring.
+
+Performance tuning, basic security hardening.
+
+Why price here
+
+Time for custom UI/UX, staging, integrations and higher hosting costs justify the jump. This tier competes with established local agencies’ professional offering.
+Mawa Creative Agency
++1
+
+4) Ecommerce — MWK 1,500,000 / year (≈ USD 865)
+
+What you deliver
+
+Full ecommerce site (WooCommerce / Shopify Lite / custom), product import (up to 500 SKUs), payment gateway setup, tax/shipping config, training.
+
+Secure hosting with CDN, nightly backups, SSL, PCI-awareness checks, 10 hrs/month support.
+
+Optional marketplace integrations, inventory sync (add cost if complex).
+
+Why price here
+
+Ecommerce needs more dev time, payment/security checks, and stronger hosting (CDN, higher bandwidth). Local ecommerce projects reported significantly higher prices in market listings.
+GEXAUZ
++1
+
+5) Enterprise / Custom Apps — MWK 3,000,000+ / year (≈ USD 1,729+)
+
+What you deliver
+
+Large corporate portals, web apps, multi-tenant, complex integrations (ERP/CRM), authentication/SSO, high availability hosting, SLAs, dedicated support team.
+
+Custom quote after scoping; retainer + milestone payments recommended.
+
+Why price here
+
+Substantial development, architecture, and dedicated infrastructure — price is scoped per project. Local custom app rates and international benchmarks justify enterprise pricing.
+Creole Studios
++1
+
+Optional add-ons (price examples)
+
+Monthly content writing / blog: MWK 30,000–80,000 / month.
+
+Advanced SEO package: MWK 200,000 – 500,000 / year.
+
+Social media setup & 1 post/day: MWK 150,000 / month.
+
+Additional backups / premium disaster recovery: MWK 120,000 / year.
+(Adjust to client size and scope.)
+
+Payment & contract suggestions
+
+Standard term: 12 months (development + hosting + maintenance). Renewal for hosting & maintenance after year 1 (suggest 40–60% of year-1 price for hosting + basic support; full dev is one-time).
+
+Payment schedule (example): 40% upfront, 40% on staging sign-off, 20% on launch; monthly subscription options available for hosting/support.
+
+SLAs: response SLA (e.g., 24–48 hrs for non-critical tickets; 4 hrs for critical outages), uptime target (99.9% for Pro & above).
+
+Maintenance: include 2–10 hrs/month depending on tier; charge hourly (MWK 10,000–50,000/hr) for extra work.
+
+and we only
+
+
+
+Adjusted bundle pricing with domain included (first year)
+
+Here are the same tiers as before, with one domain registration (standard .com or similar) included for first year, so you can offer “all-in pricing”:
+
+Tier	Old price (without domain)	Add domain (~ MWK 20,000)	New all-in price MWK / year
+Starter	MWK 180,000	+ MWK 20,000	MWK 200,000 / year
+Business	MWK 450,000	+ MWK 20,000	MWK 470,000 / year
+Professional / Agency	MWK 900,000	+ MWK 20,000	MWK 920,000 / year
+Ecommerce	MWK 1,500,000	+ MWK 20,000	MWK 1,520,000 / year
+Enterprise / Custom	MWK 3,000,000+	+ depends on domain (premium?)	MWK 3,020,000+
+
+
+
+please the website must be able to samples of different website options so that clients knows where they belong interms of choosing their choices.
+also on the landing page must show the team and anything else relavant.
+
+please also add chat bot for live chat and support to clients.
+and also quotation request form but make sure they are verified as real users to avoid robots and fake spam, they must enter real usernames, verify email address before submitting the form, and clients must be able to register their own account so that they must be able to follow up progress
